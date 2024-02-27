@@ -452,6 +452,20 @@
 					"any": ""
 				},
 				{
+					"id": "a2ff1d04-b999-4ac6-b1a8-df9c8ba4382d",
+					"name": "price",
+					"datatype": "Number",
+					"param": "",
+					"pk": false,
+					"nn": true,
+					"list": false,
+					"comment": "",
+					"defaultvalue": "",
+					"data": "",
+					"after": "",
+					"options": ""
+				},
+				{
 					"id": "460dadf6-fab9-4a75-aa82-99d53539dcc6",
 					"name": "bought_by",
 					"datatype": "bc06baca-aa95-4a58-984f-2946adf59c6a",
@@ -595,7 +609,7 @@
 		"replaceSpace": "_",
 		"color": "transparent",
 		"sideSelections": true,
-		"isDirty": true,
+		"isDirty": false,
 		"storedin": {
 			"major": 7,
 			"minor": 5,
@@ -615,7 +629,7 @@
 		"def_validationAction": "na",
 		"def_collation": "",
 		"def_others": "",
-		"lastSaved": 1709053486513
+		"lastSaved": 1709054253302
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -633,8 +647,8 @@
 			"diagramItems": {
 				"4b334522-0e56-4ac0-b5d1-2388ff44fc15": {
 					"referencedItemId": "4b334522-0e56-4ac0-b5d1-2388ff44fc15",
-					"x": 782,
-					"y": 118,
+					"x": 734,
+					"y": 138,
 					"gHeight": 147,
 					"gWidth": 277,
 					"color": "#ffffff",
@@ -678,7 +692,7 @@
 					"referencedItemId": "67be89ba-f465-41b8-80b8-99a896d82302",
 					"x": 99,
 					"y": 30,
-					"gHeight": 135,
+					"gHeight": 153,
 					"gWidth": 308,
 					"color": "#ffffff",
 					"background": "#03a9f4",
