@@ -1,0 +1,1 @@
+var mongoose = require('mongoose');var Schema = mongoose.Schema;var supplier = new Schema({name:{type: String,required: true},address:[{street:{type: String,required: true},number:{type: String,required: true},floor:{type: String},door:{type: String},city:{type: String,required: true},zip:{type: String,required: true},country:{type: String,required: true},required: true}]});
